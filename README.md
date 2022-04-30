@@ -6,7 +6,7 @@ customer demographic groups who respond best to the different offer types. A mac
 complete an offer.
 
 ## Installations
-* Python 3.6
+* Python 3.8
 * NumPy
 * Pandas
 * Seaborn
