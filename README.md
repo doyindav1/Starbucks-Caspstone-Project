@@ -37,7 +37,7 @@ Keep in mind as well that someone using the app might make a purchase through th
 * As a customer serving business, it's important to be effective in sending out offers. Are you sending offers to customers who are more likely to complete them?
 How can you measure this ? With this project, two techniques were used; an analytical study of available data to determine customers who completed the different
 offers and a machine learning model to determine whether a customer will complete an offer.
-* Here's the link to my Medium post: 
+* Here's the link to my Medium post: [Starbucks Capstone Project](https://medium.com/@doyinsolaoduwole/are-you-targeting-the-right-customers-with-your-campaign-offers-6f9e96e646bf)
 
 ## File Description
 * Data : contains the three datasets
